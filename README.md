@@ -1,8 +1,26 @@
-# 💫 About Me
-
-🔭 I’m currently working on  " Rosea Checkout "
+<img src=".rsc/logo.png" width="70%" />
 
 <br>
+
+# 📊Projects
+
+### Rosea Checkout
+
+#### See : [backend](https://github.com/Logarithmique51/-Rosea--backend) / [frontend](https://google.fr)
+
+**Description:** <br/>
+Rosea Checkout is a comprehensive solution designed to streamline the process of order management and checkout in various types of stores, particularly suitable for environments like restaurants. This project features a desktop application for in-store use, a frontend application for client-side interactions, and an interface with thermal printers for efficient receipt printing.
+
+<br/>
+
+### Rosea IoT
+
+#### See : [Dashboard](https://github.com/Logarithmique51/-IoT--dashboard-app) / [MQTT Broker](https://github.com/Logarithmique51/-IoT--mqtt-broker) / [Embedded program](https://github.com/Logarithmique51/-IoT--embedded-system)
+
+**Description:** <br/>
+Rosea IoT is an innovative Internet of Things (IoT) solution featuring a self-hosted MQTT server. It is designed to run on all ESP modules, providing robust functionality including auto-discovery of devices, seamless communication, and efficient management of IoT devices.
+<br/>
+<br/>
 
 # 💻 Tech Stack
 
@@ -82,20 +100,6 @@
 <br/>
 <br/>
 
-# 📊Projects
+# 💫 About Me
 
-### Rosea Checkout
-
-#### See : [backend](https://github.com/Logarithmique51/-Rosea--backend) / [frontend](https://google.fr)
-
-**Description:** <br/>
-Rosea Checkout is a comprehensive solution designed to streamline the process of order management and checkout in various types of stores, particularly suitable for environments like restaurants. This project features a desktop application for in-store use, a frontend application for client-side interactions, and an interface with thermal printers for efficient receipt printing.
-
-<br/>
-
-### Rosea IoT
-
-#### See : [Dashboard](https://github.com/Logarithmique51/-IoT--dashboard-app) / [MQTT Broker](https://github.com/Logarithmique51/-IoT--mqtt-broker) / [Embedded program](https://github.com/Logarithmique51/-IoT--embedded-system)
-
-**Description:** <br/>
-Rosea IoT is an innovative Internet of Things (IoT) solution featuring a self-hosted MQTT server. It is designed to run on all ESP modules, providing robust functionality including auto-discovery of devices, seamless communication, and efficient management of IoT devices.
+🔭 I’m currently working on  " Rosea Checkout "
