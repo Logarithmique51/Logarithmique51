@@ -6,8 +6,6 @@
 
 ### Rosea Checkout
 
-#### See : [backend](https://github.com/Logarithmique51/-Rosea--backend) / [frontend](https://google.fr)
-
 **Description:** <br/>
 Rosea Checkout is a comprehensive solution designed to streamline the process of order management and checkout in various types of stores, particularly suitable for environments like restaurants. This project features a desktop application for in-store use, a frontend application for client-side interactions, and an interface with thermal printers for efficient receipt printing.
 
