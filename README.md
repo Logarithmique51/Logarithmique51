@@ -56,6 +56,7 @@ Rosea IoT is an innovative Internet of Things (IoT) solution featuring a self-ho
 ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=flat-square&logo=javafx&logoColor=white)
 ![Electron.js](https://img.shields.io/badge/ElectronJS-191970?style=flat-square&logo=Electron&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat-square&logo=opengl)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)
 
 **Mobile** <br/>
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat-square&logo=expo&logoColor=#D04A37)
